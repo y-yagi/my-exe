@@ -1,0 +1,1 @@
+vim $(find /home/yaginuma/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/ -name "*.rb"  | peco )

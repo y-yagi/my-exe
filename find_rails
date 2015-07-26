@@ -1,0 +1,2 @@
+vim $(find /home/yaginuma/program/rails/rails -type f | peco )
+
